@@ -1,0 +1,97 @@
+.redBorder {
+    background-color: #8c2020;
+}
+.container {
+    padding: 10px;
+    background-color: #ffffdd;
+}
+.container,.heading {
+    margin: auto;
+    width: 90%;
+    font-family: serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+.tablecontainer,
+.tablecontainer tr,
+.tablecontainer td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table.tablecontainer {
+    width: 100%;
+}
+.headingDiv {
+    text-align: center;
+}
+.redColor {
+    color: red;
+    font-weight: bolder;
+}
+.underLineClass {
+    text-decoration: underline;
+    color: #c45216;
+}
+.pad {
+    padding-right: 45px;
+    padding-left: 2px;
+}
+.width10 {
+    width: 10px;
+}
+input[type="radio"] {
+    width: 10px;
+}
+.paddingRight75 {
+    padding-right: 95px;
+}
+.heading {
+    color: #fff;
+}
+.borderNone {
+    border: none !important;
+}
+.blueSpan {
+    color: #4e60f0;
+}
+.paddingLeft21{
+    padding-left:21px;
+}
+.paddingLeft60{
+    padding-left:60px;
+}
+.ashColor{
+    color:#556E6D;
+}
+.width400{
+    width:400px;
+}
+.floatLeft{
+    width: 47%;
+   float: left;
+   padding-left: 2px;
+}
+.floatLeft>div{
+    border-bottom:1px solid black;
+}
+.borderRight{
+    border-right:1px solid black;
+}
+.width75{
+    width:75px;
+}
+.tablecontainer .noborder{
+    border:none;
+}
+.brownColor{
+    color:#9D5E57
+}
+.table2{
+    width:100%;
+}
+.centerAlign{
+    text-align: center;
+}
+.endAlign{
+    text-align: end;
+}
